@@ -2,11 +2,11 @@ package chapter1.task13;
 
 //: object/Documentation3.java
 /**
- * You can <em>even</em> insert a list:
+ * Можно <em>даже</em> вставить список:
  * <ol>
- * <li> Item one
- * <li> Item two
- * <li> Item three
+ * <li> Пункт первый
+ * <li> Пункт второй
+ * <li> Пункт третий
  * </ol>
  */
 public class Documentation3 {}

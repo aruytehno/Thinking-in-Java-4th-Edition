@@ -1,13 +1,14 @@
 package chapter1.task13;
 
 //: object/Documentation1.java
-/** A class comment */
+/** Комментарий к классу */
 public class Documentation1 {
-    /** A field comment */
+    /** Комментарий к переменной */
     public int i;
-    /** A method comment */
+    /** Комментарий к методу */
     public void f() {}
 } ///:~
 
 // Указать папку для документации: -d docs
+// Сделать документацию для всех классов: *.java
 // javadoc -d docs *.java
