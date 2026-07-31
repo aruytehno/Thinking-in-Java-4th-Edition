@@ -3,9 +3,9 @@ package chapter1.task12;
 import java.util.Date;
 
 /** Первая программа-пример книги
- * Выводит струку и текущее число
+ * Выводит строку и текущее число.
  * @author Брюс Эккель
- * @author www.MindViev.net
+ * @author www.MindView.net
  * @version 4.0
  */
 public class HelloDate {
