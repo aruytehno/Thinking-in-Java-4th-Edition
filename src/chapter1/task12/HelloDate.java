@@ -18,3 +18,5 @@ public class HelloDate {
         System.out.println(new Date());
     }
 }
+
+// javadoc .\HelloDate.java
