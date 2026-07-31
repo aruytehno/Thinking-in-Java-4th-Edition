@@ -18,5 +18,5 @@ public class HelloDate {
         System.out.println(new Date());
     }
 }
-
-// javadoc .\HelloDate.java
+// Указать папку для документации: -d docs
+// javadoc -d docs .\HelloDate.java
