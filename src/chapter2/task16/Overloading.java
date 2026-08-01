@@ -29,8 +29,10 @@ class Tree {
     void info() {
         System.out.println("Дерево высотой " + height + " м.");
     }
+
     /**
      * info - вывод информации с аргументом
+     * @param s - дополнительное сообщение
      */
     void info(String s) {
         System.out.println(s + ": Дерево высотой " + height + " м.");
