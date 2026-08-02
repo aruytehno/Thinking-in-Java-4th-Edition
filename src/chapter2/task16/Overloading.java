@@ -53,3 +53,6 @@ public class Overloading {
         new Tree();
     }
 }
+
+// Указать папку для документации: -d docs
+// javadoc -d docs .\Overloading.java
